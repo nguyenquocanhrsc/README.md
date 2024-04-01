@@ -1,5 +1,3 @@
-# README.md
-
 <h1 align="center">Hi 👋, I am Andrew Nguyen</h1>
 <h3 align="center">A passionate Data Scientist and AI Researcher from Vietnam</h3>
 
